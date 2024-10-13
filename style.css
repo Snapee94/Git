@@ -1,0 +1,13 @@
+body {}
+
+.muzyka {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.piosenka {
+    max-width: 500px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 120%;
+}
