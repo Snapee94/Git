@@ -1,0 +1,2 @@
+npm install browser-sync --save-dev
+npx html-validate **/*.html
